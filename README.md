@@ -1,3 +1,3 @@
 # Burer-Monteiro-SOS
 
-Nothing.
+Apply BM method to improve the computation of SOS programs. 
