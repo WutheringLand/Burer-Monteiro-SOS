@@ -71,7 +71,7 @@ for i in range(numTrials):
 		data.append([Q,p,R_init,numVar,degree])
 
 
-iteration = 2
+iteration = 1
 if data:
 	filename = 'data'+'numVar'+str(numVar)+'degree'+str(degree) + 'Iter' + str(iteration)
 	np.save(filename, data)
